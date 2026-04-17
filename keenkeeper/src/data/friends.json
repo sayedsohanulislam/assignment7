@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/150?u=1",
+    "email": "david.kim@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["work"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?u=2",
+    "email": "emma@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Cousin from out of state.",
+    "goal": 30,
+    "next_due_date": "2026-03-15"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/150?u=3",
+    "email": "lisa@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Met at the tech conference.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/150?u=4",
+    "email": "james.w@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["hobby", "travel"],
+    "bio": "Hiking buddy.",
+    "goal": 21,
+    "next_due_date": "2026-05-02"
+  }
+  ,
+  {
+    "id": 5,
+    "name": "Aisha Rahman",
+    "picture": "https://i.pravatar.cc/150?u=5",
+    "email": "aisha.rahman@example.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["college", "close friend"],
+    "bio": "College roommate and study partner.",
+    "goal": 14,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 6,
+    "name": "Marco Silva",
+    "picture": "https://i.pravatar.cc/150?u=6",
+    "email": "marco.silva@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["work", "soccer"],
+    "bio": "Teammate from weekend soccer league.",
+    "goal": 30,
+    "next_due_date": "2026-05-18"
+  }
+]
